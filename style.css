@@ -1,10 +1,10 @@
 body{
     margin: 0;
-    display: flex;
+    margin-left: 40%;
     justify-content: center;
     align-items: center;
-    height: 90vh;
-    background-color: hsl(0, 0%, 95%);
+    margin-top: 2%;
+    background-color: hsl(0, 0%, 8%);
 }
 
 #display{
